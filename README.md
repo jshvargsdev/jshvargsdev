@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Mi nombre es Joshua Vargas, soy un Back-end Developer residenciado en Caracas, Venezuela.</p>
+<p align="left">Mi nombre es Joshua Vargas, soy un Full Stack Developer residenciado en Caracas, Venezuela.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde hace 2 años.<br>📚 Actualmente estoy aprendiendo el framework NestJS.<br>🎯 Objetivos: Especializarme en el área del back-end y también aprender el lado del front-end para complementar mi carrarera profesional.<br>🎲 Dato curioso: Jugador de Arena Breakout Mobile y futbolista.</p>
+<p align="left">✨ Creando bugs desde hace 2 años.<br>📚 Actualmente estoy aprendiendo el framework Angular + NestJS.<br>🎯 Objetivos: Especializarme en el área del back-end y también aprender el lado del front-end para complementar mi carrarera profesional.<br>🎲 Dato curioso: Jugador de Arena Breakout Mobile y futbolista.</p>
 
 ###
 
@@ -49,11 +49,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/angular-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
