@@ -78,12 +78,3 @@
 </div>
 
 ###
-###
-
-<img src="https://raw.githubusercontent.com/jshvargsdev/jshvargsdev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left"></h2>
-
-###
