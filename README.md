@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="240" src="https://raw.githubusercontent.com/jshvargsdev/jshvargsdev/main/Banner.png"  />
-</div>
-
 ###
 
 <h1 align="left">Hey👋🏻 ¿Qué tal?</h1>
@@ -78,11 +74,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jshvargsdev/count.svg?"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/jshvargsdev/jshvargsdev/output/snake.svg" alt="Snake animation" />
