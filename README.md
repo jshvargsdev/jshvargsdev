@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/jshvargsdev/jshvargsdev/main/Banner.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/jshvargsdev/jshvargsdev/main/banner.png"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde hace 2 años.<br>📚 Actualmente estoy aprendiendo el framework Angular + NestJS.<br>🎯 Objetivos: Especializarme en el área del back-end y también aprender el lado del front-end para complementar mi carrarera profesional.<br>🎲 Dato curioso: Jugador de Arena Breakout Mobile y futbolista.</p>
+<p align="left">✨ Creando bugs desde hace 2 años.<br>📚 Actualmente estoy aprendiendo el framework Vue.js + NestJS.<br>🎯 Objetivos: Especializarme en el área del back-end y también aprender el lado del front-end para complementar mi carrarera profesional.<br>🎲 Dato curioso: Jugador de Arena Breakout Mobile y futbolista.</p>
 
 ###
 
@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
