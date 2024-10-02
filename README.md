@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde hace 2 años.<br>📚 Actualmente estoy aprendiendo el framework Vue.js + NestJS.<br>🎯 Objetivos: Especializarme en el área del back-end y también aprender el lado del front-end para complementar mi carrarera profesional.<br>🎲 Dato curioso: Jugador de Arena Breakout Mobile y futbolista.</p>
+<p align="left">✨ Creando bugs desde hace 2 años.<br>📚 Actualmente estoy aprendiendo el framework Vue.js + NestJS.<br>🎯 Objetivos: Especializarme en el front-end y en el back-end para complementar mi carrarera profesional y aprender todo lo posible para seguir evolucionando.<br>🎲 Dato curioso: Jugador de Arena Breakout Mobile y futbolista.</p>
 
 ###
 
