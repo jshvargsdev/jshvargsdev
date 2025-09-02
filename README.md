@@ -10,7 +10,7 @@
 
 ¡Hola! Soy Joshua Vargas 👋🏻
 
-Desarrollador Full Stack con más de 2 años de experiencia construyendo aplicaciones web robustas, dinámicas y escalables. Mi stack principal gira en torno al ecosistema JavaScript/TypeScript, desarrollando interfaces modernas con React y Next.js, y arquitecturas backend sólidas con Node.js, Express.js y NestJS.
+Desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones web robustas, dinámicas y escalables. Mi stack principal gira en torno al ecosistema JavaScript/TypeScript, desarrollando interfaces modernas con React y Next.js, y arquitecturas backend sólidas con Node.js, Express.js y NestJS.
 
 Tengo experiencia trabajando tanto con bases de datos SQL y NoSQL, enfocándome en la creación de APIs bien estructuradas, seguras y mantenibles. Me apasiona escribir código limpio, aplicar principios de Clean Architecture y seguir buenas prácticas que faciliten la colaboración y la escalabilidad del software.
 
