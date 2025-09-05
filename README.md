@@ -10,7 +10,7 @@
 
 ¡Hola! Soy Joshua Vargas 👋🏻
 
-Desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones web robustas, dinámicas y escalables. Mi stack principal gira en torno al ecosistema JavaScript/TypeScript, desarrollando interfaces modernas con Angular y arquitecturas backend sólidas con Node.js, Express.js y NestJS.
+Desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones web robustas, dinámicas y escalables. Mi stack principal gira en torno al ecosistema JavaScript/TypeScript, desarrollando interfaces modernas con React/Next.js y arquitecturas backend sólidas con Node.js, Express.js y NestJS.
 
 Tengo experiencia trabajando tanto con bases de datos SQL y NoSQL, enfocándome en la creación de APIs bien estructuradas, seguras y mantenibles. Me apasiona escribir código limpio, aplicar principios de Clean Architecture y seguir buenas prácticas que faciliten la colaboración y la escalabilidad del software.
 
@@ -61,13 +61,17 @@ Actualmente estoy finalizando el último semestre del TSU en Informática y cont
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
