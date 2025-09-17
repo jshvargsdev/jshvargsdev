@@ -10,7 +10,7 @@
 
 ¡Hola! Soy Joshua Vargas 👋🏻
 
-Desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones web robustas, dinámicas y escalables. Mi stack principal gira en torno al ecosistema JavaScript/TypeScript, desarrollando interfaces modernas con React/Next.js y arquitecturas backend sólidas con Node.js, Express.js y NestJS.
+Desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones web robustas, dinámicas y escalables. Mi stack principal gira en torno al ecosistema JavaScript/TypeScript, desarrollando interfaces modernas con Vue.js/Nuxt y arquitecturas backend sólidas con Node.js, Express.js y NestJS.
 
 Tengo experiencia trabajando tanto con bases de datos SQL y NoSQL, enfocándome en la creación de APIs bien estructuradas, seguras y mantenibles. Me apasiona escribir código limpio, aplicar principios de Clean Architecture y seguir buenas prácticas que faciliten la colaboración y la escalabilidad del software.
 
@@ -36,7 +36,7 @@ Actualmente estoy finalizando el último semestre del TSU en Informática y cont
 
 ###
 
-<h2 align="left">Frameworks y Herramientas</h2>
+<h2 align="left">Herramientas y Frameworks</h2>
 
 ###
 
@@ -61,9 +61,9 @@ Actualmente estoy finalizando el último semestre del TSU en Informática y cont
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
