@@ -14,15 +14,17 @@
 
 Soy Joshua Vargas 👋🏻
 
-Backend Developer con más de 3 años de experiencia, especializado en el desarrollo de soluciones escalables dentro del ecosistema de JavaScript y TypeScript. Me enfoco en la creación de arquitecturas eficientes y el manejo optimizado de datos.
+Full Stack Developer con más de 3 años de experiencia, especializado en el desarrollo de soluciones escalables dentro del ecosistema de JavaScript y TypeScript. Me enfoco en el diseño de arquitecturas eficientes, interfaces reactivas y el manejo optimizado de datos.
+
+💻 Frontend: Desarrollo de interfaces de usuario dinámicas y modernas con Vue.js, enfocadas en la experiencia de usuario y rendimiento.
 
 🛠 Backend: Diseño y construcción de APIs y microservicios robustos utilizando Node.js, Express.js y NestJS.
 
-🕷️ Web Scraping: Automatización de procesos y extracción de datos complejos de la web para análisis y procesamiento utilizando Puppeteer.
+🕷️ Web Scraping: Automatización de procesos y extracción de datos complejos de la web para análisis utilizando Puppeteer.
 
-💾 Bases de Datos: Gestión y modelado de bases de datos relacionales PostgreSQL y no relacionales MongoDB.
+💾 Bases de Datos: Gestión y modelado de bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB).
 
-🎓 Formación: TSU en Informática. Mantengo un aprendizaje continuo en mejores prácticas de desarrollo y nuevas tecnologías.
+🎓 Formación: TSU en Informática. Mantengo un aprendizaje continuo en mejores prácticas de desarrollo y Arquitectura de Software.
 
 ###
 
@@ -67,6 +69,8 @@ Backend Developer con más de 3 años de experiencia, especializado en el desarr
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
