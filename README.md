@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/jshvargsdev/jshvargsdev/main/my-banner.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/jshvargsdev/jshvargsdev/main/banner.png"  />
 </div>
 
 ###
@@ -14,9 +14,9 @@
 
 Soy Joshua Vargas 👋🏻
 
-Full Stack Developer con más de 3 años de experiencia, especializado en el desarrollo de soluciones escalables dentro del ecosistema de JavaScript y TypeScript. Me enfoco en el diseño de arquitecturas eficientes, interfaces reactivas y el manejo optimizado de datos.
+Full Stack Developer con más de 3 años de experiencia, especializado en la creación de soluciones integrales dentro del ecosistema de JavaScript y TypeScript. Me apasiona construir desde interfaces dinámicas y modernas hasta arquitecturas backend eficientes y escalables.
 
-💻 Frontend: Desarrollo de interfaces de usuario dinámicas y modernas con Vue.js, enfocadas en la experiencia de usuario y rendimiento.
+💻 Frontend: Desarrollo de interfaces de usuario interactivas y optimizadas utilizando React, enfocadas en el rendimiento y la experiencia del usuario.
 
 🛠 Backend: Diseño y construcción de APIs y microservicios robustos utilizando Node.js, Express.js y NestJS.
 
@@ -70,7 +70,7 @@ Full Stack Developer con más de 3 años de experiencia, especializado en el des
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
